@@ -1,3 +1,7 @@
 pyTelegramBotAPI
 pytube
 requests
+python-telegram-bot==20.3
+pytz
+requests
+yt-dlp
